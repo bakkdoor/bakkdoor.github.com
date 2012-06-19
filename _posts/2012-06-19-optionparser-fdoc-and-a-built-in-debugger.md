@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OptionParser, FDoc and a built in debugger"
+title: "OptionParser, FDoc and a built-in debugger"
 category:
 tags: []
 ---
