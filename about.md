@@ -13,6 +13,11 @@ I study Computer Science and Philosophy.
 
 I've written a bunch of free software, most of which you can find on my [GitHub profile](https://github.com/bakkdoor).
 
+I'm also on Twitter:
+
+* [@bakkdoor](https://twitter.com/bakkdoor)
+* [@fancy_lang](https://twitter.com/fancy_lang) (for Fancy related stuff)
+
 ## Hobbies & Interests
 
 I've been interested in programming language design and implementation for a long time. I prefer dynamic over static languages. I prefer implicit over explicit. Here's a list of languages I like and have used:
