@@ -2,7 +2,7 @@
 layout: post
 title: "OptionParser, FDoc and a built-in debugger"
 category:
-tags: []
+tags: [debugging documentation tooling]
 ---
 {% include JB/setup %}
 
