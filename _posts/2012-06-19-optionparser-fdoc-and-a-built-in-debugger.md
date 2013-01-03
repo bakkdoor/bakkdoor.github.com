@@ -6,8 +6,6 @@ tags: [debugging, documentation, tooling]
 ---
 {% include JB/setup %}
 
-**Note:** *GitHub pages is having some problems with the Fancy code samples here, they simply don't show up. I'm investigating but for now I've turned off correct syntax highlighting for them to show up at all.*
-
 ## Debugger
 
 I've been adding a bunch of new features to Fancy recently.  The most
@@ -60,7 +58,7 @@ Apart from starting up the debugger explicitly beforehand, you can
 also just set a breakpoint in your code explicitly and then run your
 code normally, like so:
 
-{% highlight bash %}
+{% highlight fancy %}
 require: "rbx/debugger"
 def my_method {
   # do something
@@ -83,7 +81,7 @@ command-line options.
 
 Here's an example:
 
-{% highlight bash %}
+{% highlight fancy %}
 # Save this to options.fy
 require: "option_parser"
 
