@@ -51,7 +51,8 @@ This blog mostly talks about its development, new features and ideas related to 
 
 It's a pure dynamic object-oriented programming language, with built-in support for concurrency (via [Futures][1] and [Actors][2]) and has first-class integration support for Ruby and any Ruby library, including all Ruby C-extensions supported by Rubinius.
 
-
+[1]: http://en.wikipedia.org/wiki/Future_(computer_science)
+[2]: http://en.wikipedia.org/wiki/Actor_(computer_science)
 
 ## Talks I gave
 
@@ -67,10 +68,9 @@ This is a list of talks I gave on Fancy:
 
 * [RubyConf: "Getting Fancy on Rubinius" (Video)](http://www.youtube.com/watch?v=Ob_xM5loQdQ)
 
+### 2013
 
-[1]: http://en.wikipedia.org/wiki/Future_(computer_science)
-[2]: http://en.wikipedia.org/wiki/Actor_(computer_science)
-
+* [RedFrog Conf / FrOSCon 2013: "The Fancy Programming Language"](http://media.ccc.de/browse/conferences/froscon/2013/hs6_-_2013-08-25_16:30_-_the_fancy_programming_language_-_christoph_bertels_-_1272.html)
 
 ## Interviews
 
