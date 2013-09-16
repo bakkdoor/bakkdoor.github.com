@@ -70,7 +70,7 @@ This is a list of talks I gave on Fancy:
 
 ### 2013
 
-* [RedFrog Conf / FrOSCon 2013: "The Fancy Programming Language"](http://media.ccc.de/browse/conferences/froscon/2013/hs6_-_2013-08-25_16:30_-_the_fancy_programming_language_-_christoph_bertels_-_1272.html)
+* [RedFrog Conf / FrOSCon 2013: "The Fancy Programming Language" (Video / German)](http://media.ccc.de/browse/conferences/froscon/2013/hs6_-_2013-08-25_16:30_-_the_fancy_programming_language_-_christoph_bertels_-_1272.html)
 
 ## Interviews
 
