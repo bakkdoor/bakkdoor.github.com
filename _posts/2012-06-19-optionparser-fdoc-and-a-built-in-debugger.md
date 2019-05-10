@@ -28,7 +28,7 @@ $ fancy -debug <source_file>
 {% endhighlight %}
 
 This will launch you directly into the debugger before starting
-execution of the programm. If you don't pass a source file to execute
+execution of the program. If you don't pass a source file to execute
 along, it will simply start debugging Fancy's REPL,
 [ifancy](https://github.com/bakkdoor/fancy/blob/master/bin/ifancy),
 which always gets started when you don't pass a source file to the
@@ -121,7 +121,7 @@ generates the JSON based output for the API documentation page for
 Fancy available at: [api.fancy-lang.org](http://api.fancy-lang.org/).
 Initially started and written by
 [Victor Borja](https://twitter.com/vborja) back in 2010, it never
-really was finished up to what he intented to do. And I also never
+really was finished up to what he intended to do. And I also never
 really fully got into how it all worked until recently when I decided
 to start cleaning things up a bit and making it useful outside of just
 generating documentation for Fancy's standard library itself.
